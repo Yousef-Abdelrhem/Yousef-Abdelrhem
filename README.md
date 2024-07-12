@@ -11,7 +11,8 @@ I am a skilled Frontend Developer with a Bachelor of Computer Science. I have ha
 ### Skills
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" height="40"/> 
+  <img src="![image](https://github.com/user-attachments/assets/61263fe7-3d0b-4846-a201-d6c42dfef636)
+" alt="JavaScript" height="40"/> 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="TypeScript" height="40"/> 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="40"/> 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="Bootstrap" height="40"/> 
