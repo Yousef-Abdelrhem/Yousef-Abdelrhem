@@ -10,12 +10,37 @@ I am a skilled Frontend Developer with a Bachelor of Computer Science. I have ha
 
 ### Skills
 
+#### Languages:
 <p align="left">
-  <img src="![image](https://github.com/user-attachments/assets/61263fe7-3d0b-4846-a201-d6c42dfef636)
-" alt="JavaScript" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="TypeScript" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="Bootstrap" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="C" height="40" style="color: #A8B9CC;"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" height="40" style="color: #00599C;"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" height="40" style="color: #F7DF1E;"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="TypeScript" height="40" style="color: #3178C6;"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="40" style="color: #3776AB;"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="HTML5" height="40" style="color: #E34F26;"/> 
+</p>
+
+#### Framework:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="40" style="color: #61DAFB;"/> 
+</p>
+
+#### Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg" alt="Figma" height="40" style="color: #F24E1E;"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" style="color: #181717;"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/centos.svg" alt="Checkra UI" height="40" style="color: #262577;"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="Bootstrap" height="40" style="color: #7952B3;"/> 
+</p>
+
+#### Fundamentals:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/datastructure.svg" alt="Data Structure" height="40" style="color: #46A2B8;"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/algorithm.svg" alt="Algorithm" height="40" style="color: #FF2D20;"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/oop.svg" alt="OOP" height="40" style="color: #007ACC;"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="Git" height="40" style="color: #F05032;"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/problemsolving.svg" alt="Problem Solving" height="40" style="color: #1F7AC8;"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/competitiveprogramming.svg" alt="Competitive Programming" height="40" style="color: #00427E;"/> 
 </p>
 
 ---
