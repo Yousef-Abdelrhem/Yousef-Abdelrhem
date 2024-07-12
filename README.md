@@ -1,13 +1,10 @@
 ### Hi there 👋, Yousef Abdelrhem
-#### I'm Front end developer
-![I'm Front end developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
+#### I'm Front end developer 
+ I am a skilled Frontend Developer with a Bachelor of Computer Science, I have hands-on experience in developing dynamic and responsive web applications using modern frameworks and tools such as React.js, TypeScript, Bootstrap and Checkra UI.
 
 - 🔭 I’m currently working on this page. 
+- 📫 How to reach me: yousefabdelrhem1@gmail.com | +201091803463 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yousef-abdelrhem-247a01223//)  
 
