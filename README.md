@@ -10,10 +10,9 @@ I am a skilled Frontend Developer with a Bachelor of Computer Science. I have ha
 
 ### Skills
 
-#### Languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,CSS,github,HTML,js,ts,react,py,vite,figma&theme=light" />
   </a>
 </p
 
