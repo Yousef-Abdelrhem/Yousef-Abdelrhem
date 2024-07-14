@@ -34,10 +34,10 @@ I am a skilled Frontend Developer with a Bachelor of Computer Science. I have ha
 </p>
 
 #### Fundamentals:
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
 <p align="left">
-  <i class="fas fa-database" style="font-size:40px;color:#46A2B8;"></i> <!-- Data Structures -->
+  <i class="fa-brands fa-js"></i>
+ <!-- Data Structures -->
   <i class="fas fa-cogs" style="font-size:40px;color:#FF2D20;"></i> <!-- Algorithms -->
   <i class="fas fa-object-group" style="font-size:40px;color:#007ACC;"></i> <!-- OOP -->
   <i class="fab fa-git-alt" style="font-size:40px;color:#F05032;"></i> <!-- Git -->
