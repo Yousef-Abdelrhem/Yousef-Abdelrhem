@@ -34,14 +34,17 @@ I am a skilled Frontend Developer with a Bachelor of Computer Science. I have ha
 </p>
 
 #### Fundamentals:
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/datastructure.svg" alt="Data Structure" height="40" style="color: #46A2B8;"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/algorithm.svg" alt="Algorithm" height="40" style="color: #FF2D20;"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/oop.svg" alt="OOP" height="40" style="color: #007ACC;"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="Git" height="40" style="color: #F05032;"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/problemsolving.svg" alt="Problem Solving" height="40" style="color: #1F7AC8;"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/competitiveprogramming.svg" alt="Competitive Programming" height="40" style="color: #00427E;"/> 
+  <i class="fas fa-database" style="font-size:40px;color:#46A2B8;"></i> <!-- Data Structures -->
+  <i class="fas fa-cogs" style="font-size:40px;color:#FF2D20;"></i> <!-- Algorithms -->
+  <i class="fas fa-object-group" style="font-size:40px;color:#007ACC;"></i> <!-- OOP -->
+  <i class="fab fa-git-alt" style="font-size:40px;color:#F05032;"></i> <!-- Git -->
+  <i class="fas fa-lightbulb" style="font-size:40px;color:#1F7AC8;"></i> <!-- Problem Solving -->
+  <i class="fas fa-trophy" style="font-size:40px;color:#00427E;"></i> <!-- Competitive Programming -->
 </p>
+
 
 ---
 
