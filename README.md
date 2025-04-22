@@ -19,23 +19,3 @@ I am a skilled Frontend Developer with a Bachelor of Computer Science. I have ha
 </p
 
 ---
-
-### Projects
-
-#### [TripLash](https://github.com/TripLash/Triplash-Web-Front)
-A web application connecting tourists with local tour guides and tours. Implemented secure user authentication flows, including login, signup, password reset, OTP verification, and email verification.
-
-#### [Joeyify](https://github.com/YousefAbdelrem/Joeyify)
-A cloud hosting website with a responsive design for both mobile and desktop platforms.
-
-#### [Gym Fitness Portfolio](https://github.com/YousefAbdelrem/Mostafa-Elaydy)
-A real fitness coach website designed to be responsive across various devices.
-
----
-
-### Check Out My Work!
-
-![Frontend Developer](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
----
-
