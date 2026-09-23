@@ -1,19 +1,17 @@
-### Hi there 👋, I'm Yousef Abdelrhem
-#### I'm a Frontend Developer
+### Hi there, I'm Yousef Abdelrhem
+#### Frontend Developer | AI Agent Engineer
 
-I am a skilled Frontend Developer with a Bachelor of Computer Science. I have hands-on experience in developing dynamic and responsive web applications using modern frameworks and tools such as React.js, TypeScript, Bootstrap, and Checkra UI.
+Frontend-focused Software Engineer building production SaaS platforms with Next.js, React, and TypeScript, plus hands-on experience integrating frontend applications with AI agent systems (LangChain/LangGraph-powered) that automate real workflows.
 
-- 🔭 I’m currently working on this page.
-- 📫 How to reach me: yousefabdelrhem1@gmail.com | +201091803463
----
----
+Currently: Software Engineer (Frontend Focus) at SMAW, building a multi-tenant HR SaaS platform and its AI-agent-driven approval-flow UI.
+
+Personal project: an end-to-end AI-agent-driven video production pipeline (Claude Code + Remotion + ffmpeg) automating script-to-publish YouTube content.
+
+Deepening: LangChain, LangGraph, MCP, NestJS, Docker.
+
+Reach me: yousefabdelrhem1@gmail.com | +20 109 180 3463
+
+LinkedIn: linkedin.com/in/yousefabdelrhem
 
 ### Skills
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,github,html,js,ts,react,py,vite,figma&theme=light" />
-  </a>
-</p
-
----
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,graphql,nodejs,express,angular,vue,tailwind,html,css,git,github,figma,py,cpp,c,vite&theme=light)](https://skillicons.dev)
